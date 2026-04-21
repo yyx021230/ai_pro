@@ -1,0 +1,782 @@
+奥迪 全部车型（共49款）
+
+【奥迪 - Activesphere】
+
+品牌：奥迪
+车型：Activesphere
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/正后.jpg
+
+###
+
+【奥迪 - 奥迪A3】
+
+品牌：奥迪
+车型：奥迪A3
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A3/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A3/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A3/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A3/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A3/正后.jpg
+
+###
+
+【奥迪 - 奥迪A4(进口)】
+
+品牌：奥迪
+车型：奥迪A4(进口)
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4(进口)/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4(进口)/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4(进口)/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4(进口)/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4(进口)/正后.jpg
+
+###
+
+【奥迪 - 奥迪A4L】
+
+品牌：奥迪
+车型：奥迪A4L
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A4L/正后.jpg
+
+###
+
+【奥迪 - 奥迪A5】
+
+品牌：奥迪
+车型：奥迪A5
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5/正后.jpg
+
+###
+
+【奥迪 - 奥迪A5L Sportback】
+
+品牌：奥迪
+车型：奥迪A5L Sportback
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L Sportback/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L Sportback/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L Sportback/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L Sportback/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L Sportback/正后.jpg
+
+###
+
+【奥迪 - 奥迪A5L】
+
+品牌：奥迪
+车型：奥迪A5L
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A5L/正后.jpg
+
+###
+
+【奥迪 - 奥迪A6 e-tron(进口)】
+
+品牌：奥迪
+车型：奥迪A6 e-tron(进口)
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6 e-tron(进口)/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6 e-tron(进口)/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6 e-tron(进口)/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6 e-tron(进口)/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6 e-tron(进口)/正后.jpg
+
+###
+
+【奥迪 - 奥迪A6】
+
+品牌：奥迪
+车型：奥迪A6
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6/正后.jpg
+
+###
+
+【奥迪 - 奥迪A6L e-tron】
+
+品牌：奥迪
+车型：奥迪A6L e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪A6L】
+
+品牌：奥迪
+车型：奥迪A6L
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A6L/正后.jpg
+
+###
+
+【奥迪 - 奥迪A7】
+
+品牌：奥迪
+车型：奥迪A7
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7/正后.jpg
+
+###
+
+【奥迪 - 奥迪A7L】
+
+品牌：奥迪
+车型：奥迪A7L
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A7L/正后.jpg
+
+###
+
+【奥迪 - 奥迪A8】
+
+品牌：奥迪
+车型：奥迪A8
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A8/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A8/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A8/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A8/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪A8/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q2L】
+
+品牌：奥迪
+车型：奥迪Q2L
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q2L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q2L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q2L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q2L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q2L/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q3 Sportback】
+
+品牌：奥迪
+车型：奥迪Q3 Sportback
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3 Sportback/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3 Sportback/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3 Sportback/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3 Sportback/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3 Sportback/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q3(进口)】
+
+品牌：奥迪
+车型：奥迪Q3(进口)
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3(进口)/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3(进口)/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3(进口)/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3(进口)/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3(进口)/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q3】
+
+品牌：奥迪
+车型：奥迪Q3
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q3新能源】
+
+品牌：奥迪
+车型：奥迪Q3新能源
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3新能源/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3新能源/斜前.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3新能源/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q3新能源/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q4 e-tron】
+
+品牌：奥迪
+车型：奥迪Q4 e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q4 e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q4 e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q4 e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q4 e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q4 e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q5 Sportback】
+
+品牌：奥迪
+车型：奥迪Q5 Sportback
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 Sportback/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 Sportback/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 Sportback/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 Sportback/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 Sportback/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q5 e-tron】
+
+品牌：奥迪
+车型：奥迪Q5 e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5 e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q5(进口)】
+
+品牌：奥迪
+车型：奥迪Q5(进口)
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5(进口)/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5(进口)/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5(进口)/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5(进口)/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5(进口)/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q5L Sportback】
+
+品牌：奥迪
+车型：奥迪Q5L Sportback
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5L Sportback/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5L Sportback/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5L Sportback/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5L Sportback/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q5L Sportback/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q6 Sportback e-tron】
+
+品牌：奥迪
+车型：奥迪Q6 Sportback e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 Sportback e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 Sportback e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 Sportback e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 Sportback e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 Sportback e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q6 e-tron】
+
+品牌：奥迪
+车型：奥迪Q6 e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6 e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q6】
+
+品牌：奥迪
+车型：奥迪Q6
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q6L Sportback e-tron】
+
+品牌：奥迪
+车型：奥迪Q6L Sportback e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L Sportback e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L Sportback e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L Sportback e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L Sportback e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L Sportback e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q6L e-tron】
+
+品牌：奥迪
+车型：奥迪Q6L e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q6L e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q7】
+
+品牌：奥迪
+车型：奥迪Q7
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q7/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q8 e-tron】
+
+品牌：奥迪
+车型：奥迪Q8 e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8 e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8 e-tron/斜前.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8 e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8 e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪Q8】
+
+品牌：奥迪
+车型：奥迪Q8
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪Q8/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS 3】
+
+品牌：奥迪
+车型：奥迪RS 3
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 3/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 3/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 3/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 3/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 3/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS 4】
+
+品牌：奥迪
+车型：奥迪RS 4
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 4/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 4/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 4/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 4/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 4/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS 5】
+
+品牌：奥迪
+车型：奥迪RS 5
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 5/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 5/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 5/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 5/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 5/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS 6】
+
+品牌：奥迪
+车型：奥迪RS 6
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 6/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 6/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 6/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 6/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 6/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS 7】
+
+品牌：奥迪
+车型：奥迪RS 7
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS 7/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS Q3】
+
+品牌：奥迪
+车型：奥迪RS Q3
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q3/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q3/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q3/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q3/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q3/正后.jpg
+
+###
+
+【奥迪 - 奥迪RS Q8】
+
+品牌：奥迪
+车型：奥迪RS Q8
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q8/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q8/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q8/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q8/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪RS Q8/正后.jpg
+
+###
+
+【奥迪 - 奥迪S4】
+
+品牌：奥迪
+车型：奥迪S4
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S4/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S4/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S4/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S4/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S4/正后.jpg
+
+###
+
+【奥迪 - 奥迪S5】
+
+品牌：奥迪
+车型：奥迪S5
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S5/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S5/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S5/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S5/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S5/正后.jpg
+
+###
+
+【奥迪 - 奥迪S6 e-tron】
+
+品牌：奥迪
+车型：奥迪S6 e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6 e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6 e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6 e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6 e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6 e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪S6】
+
+品牌：奥迪
+车型：奥迪S6
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S6/正后.jpg
+
+###
+
+【奥迪 - 奥迪S7】
+
+品牌：奥迪
+车型：奥迪S7
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S7/正后.jpg
+
+###
+
+【奥迪 - 奥迪S8】
+
+品牌：奥迪
+车型：奥迪S8
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S8/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S8/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S8/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S8/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪S8/正后.jpg
+
+###
+
+【奥迪 - 奥迪SQ5】
+
+品牌：奥迪
+车型：奥迪SQ5
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ5/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ5/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ5/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ5/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ5/正后.jpg
+
+###
+
+【奥迪 - 奥迪SQ6 e-tron】
+
+品牌：奥迪
+车型：奥迪SQ6 e-tron
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ6 e-tron/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ6 e-tron/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ6 e-tron/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ6 e-tron/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ6 e-tron/正后.jpg
+
+###
+
+【奥迪 - 奥迪SQ7】
+
+品牌：奥迪
+车型：奥迪SQ7
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪SQ7/正后.jpg
+
+###
+
+【奥迪 - 奥迪TT RS】
+
+品牌：奥迪
+车型：奥迪TT RS
+生成时间：2026-04-20T11:04:06+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪TT RS/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪TT RS/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪TT RS/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪TT RS/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/奥迪TT RS/正后.jpg
+
+###

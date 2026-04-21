@@ -1,0 +1,13 @@
+【荣威 - 荣威RX5】
+
+品牌：荣威
+车型：荣威RX5
+生成时间：2026-04-20T11:10:44+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/荣威/荣威RX5/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/荣威/荣威RX5/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/荣威/荣威RX5/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/荣威/荣威RX5/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/荣威/荣威RX5/正后.jpg

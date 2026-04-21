@@ -1,0 +1,13 @@
+{
+  "brand": "坦克",
+  "model": "坦克700新能源",
+  "source_folder": "D:\\ai_ztqc\\don_tu\\坦克_外观五角度_去水印\\坦克700新能源",
+  "generated_at": "2026-04-20T11:02:15+08:00",
+  "images": {
+    "侧面": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/坦克/坦克700新能源/侧面.jpg",
+    "斜前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/坦克/坦克700新能源/斜前.jpg",
+    "斜后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/坦克/坦克700新能源/斜后.jpg",
+    "正前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/坦克/坦克700新能源/正前.jpg",
+    "正后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/坦克/坦克700新能源/正后.jpg"
+  }
+}

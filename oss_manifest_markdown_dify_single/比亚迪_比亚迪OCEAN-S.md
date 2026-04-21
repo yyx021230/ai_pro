@@ -1,0 +1,12 @@
+【比亚迪 - 比亚迪OCEAN-S】
+
+品牌：比亚迪
+车型：比亚迪OCEAN-S
+生成时间：2026-04-20T11:08:18+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/比亚迪OCEAN-S/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/比亚迪OCEAN-S/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/比亚迪OCEAN-S/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/比亚迪OCEAN-S/斜后.jpg

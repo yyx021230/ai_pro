@@ -1,0 +1,208 @@
+哈弗 全部车型（共13款）
+
+【哈弗 - 哈弗H5】
+
+品牌：哈弗
+车型：哈弗H5
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H5/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H5/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H5/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H5/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H5/正后.jpg
+
+###
+
+【哈弗 - 哈弗H6】
+
+品牌：哈弗
+车型：哈弗H6
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6/正后.jpg
+
+###
+
+【哈弗 - 哈弗H6L】
+
+品牌：哈弗
+车型：哈弗H6L
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/正后.jpg
+
+###
+
+【哈弗 - 哈弗H9】
+
+品牌：哈弗
+车型：哈弗H9
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H9/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H9/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H9/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H9/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H9/正后.jpg
+
+###
+
+【哈弗 - 哈弗大狗】
+
+品牌：哈弗
+车型：哈弗大狗
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗/正后.jpg
+
+###
+
+【哈弗 - 哈弗大狗PLUS PHEV】
+
+品牌：哈弗
+车型：哈弗大狗PLUS PHEV
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS PHEV/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS PHEV/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS PHEV/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS PHEV/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS PHEV/正后.jpg
+
+###
+
+【哈弗 - 哈弗大狗PLUS】
+
+品牌：哈弗
+车型：哈弗大狗PLUS
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗大狗PLUS/正后.jpg
+
+###
+
+【哈弗 - 哈弗枭龙】
+
+品牌：哈弗
+车型：哈弗枭龙
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙/正后.jpg
+
+###
+
+【哈弗 - 哈弗枭龙MAX PHEV】
+
+品牌：哈弗
+车型：哈弗枭龙MAX PHEV
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙MAX PHEV/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙MAX PHEV/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙MAX PHEV/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙MAX PHEV/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗枭龙MAX PHEV/正后.jpg
+
+###
+
+【哈弗 - 哈弗猛龙PHEV】
+
+品牌：哈弗
+车型：哈弗猛龙PHEV
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PHEV/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PHEV/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PHEV/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PHEV/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PHEV/正后.jpg
+
+###
+
+【哈弗 - 哈弗猛龙PLUS】
+
+品牌：哈弗
+车型：哈弗猛龙PLUS
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PLUS/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PLUS/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PLUS/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PLUS/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙PLUS/正后.jpg
+
+###
+
+【哈弗 - 哈弗猛龙燃油版】
+
+品牌：哈弗
+车型：哈弗猛龙燃油版
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙燃油版/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙燃油版/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙燃油版/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙燃油版/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗猛龙燃油版/正后.jpg
+
+###
+
+【哈弗 - 哈弗酷狗PHEV】
+
+品牌：哈弗
+车型：哈弗酷狗PHEV
+生成时间：2026-04-20T11:01:42+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗酷狗PHEV/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗酷狗PHEV/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗酷狗PHEV/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗酷狗PHEV/斜后.jpg
+
+###

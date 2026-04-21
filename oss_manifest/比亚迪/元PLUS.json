@@ -1,0 +1,13 @@
+{
+  "brand": "比亚迪",
+  "model": "元PLUS",
+  "source_folder": "D:\\ai_ztqc\\don_tu\\比亚迪_外观五角度_去水印\\元PLUS",
+  "generated_at": "2026-04-20T11:08:18+08:00",
+  "images": {
+    "侧面": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/元PLUS/侧面.jpg",
+    "斜前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/元PLUS/斜前.jpg",
+    "斜后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/元PLUS/斜后.jpg",
+    "正前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/元PLUS/正前.jpg",
+    "正后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/比亚迪/元PLUS/正后.jpg"
+  }
+}

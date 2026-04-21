@@ -1,0 +1,364 @@
+日产 全部车型（共23款）
+
+【日产 - ARIYA艾睿雅】
+
+品牌：日产
+车型：ARIYA艾睿雅
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ARIYA艾睿雅/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ARIYA艾睿雅/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ARIYA艾睿雅/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ARIYA艾睿雅/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ARIYA艾睿雅/正后.jpg
+
+###
+
+【日产 - EPIC CONCEPT】
+
+品牌：日产
+车型：EPIC CONCEPT
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EPIC CONCEPT/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EPIC CONCEPT/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EPIC CONCEPT/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EPIC CONCEPT/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EPIC CONCEPT/正后.jpg
+
+###
+
+【日产 - ERA】
+
+品牌：日产
+车型：ERA
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ERA/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ERA/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ERA/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ERA/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/ERA/正后.jpg
+
+###
+
+【日产 - EVO】
+
+品牌：日产
+车型：EVO
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EVO/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EVO/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EVO/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EVO/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/EVO/正后.jpg
+
+###
+
+【日产 - PATHFINDER 探陆】
+
+品牌：日产
+车型：PATHFINDER 探陆
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/PATHFINDER 探陆/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/PATHFINDER 探陆/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/PATHFINDER 探陆/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/PATHFINDER 探陆/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/PATHFINDER 探陆/正后.jpg
+
+###
+
+【日产 - Serena】
+
+品牌：日产
+车型：Serena
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+
+###
+
+【日产 - Skyline】
+
+品牌：日产
+车型：Skyline
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/Skyline/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/Skyline/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/Skyline/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/Skyline/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/Skyline/正后.jpg
+
+###
+
+【日产 - 劲客】
+
+品牌：日产
+车型：劲客
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/劲客/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/劲客/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/劲客/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/劲客/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/劲客/正后.jpg
+
+###
+
+【日产 - 天籁】
+
+品牌：日产
+车型：天籁
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/天籁/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/天籁/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/天籁/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/天籁/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/天籁/正后.jpg
+
+###
+
+【日产 - 奇骏(进口)】
+
+品牌：日产
+车型：奇骏(进口)
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏(进口)/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏(进口)/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏(进口)/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏(进口)/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏(进口)/正后.jpg
+
+###
+
+【日产 - 奇骏】
+
+品牌：日产
+车型：奇骏
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/奇骏/正后.jpg
+
+###
+
+【日产 - 探陆(海外)】
+
+品牌：日产
+车型：探陆(海外)
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/探陆(海外)/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/探陆(海外)/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/探陆(海外)/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/探陆(海外)/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/探陆(海外)/正后.jpg
+
+###
+
+【日产 - 日产N6】
+
+品牌：日产
+车型：日产N6
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/正后.jpg
+
+###
+
+【日产 - 日产N7】
+
+品牌：日产
+车型：日产N7
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N7/正后.jpg
+
+###
+
+【日产 - 日产NX8】
+
+品牌：日产
+车型：日产NX8
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产NX8/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产NX8/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产NX8/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产NX8/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产NX8/正后.jpg
+
+###
+
+【日产 - 日产Z】
+
+品牌：日产
+车型：日产Z
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产Z/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产Z/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产Z/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产Z/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产Z/正后.jpg
+
+###
+
+【日产 - 纳瓦拉】
+
+品牌：日产
+车型：纳瓦拉
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/纳瓦拉/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/纳瓦拉/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/纳瓦拉/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/纳瓦拉/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/纳瓦拉/正后.jpg
+
+###
+
+【日产 - 聆风】
+
+品牌：日产
+车型：聆风
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/聆风/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/聆风/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/聆风/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/聆风/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/聆风/正后.jpg
+
+###
+
+【日产 - 轩逸】
+
+品牌：日产
+车型：轩逸
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/轩逸/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/轩逸/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/轩逸/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/轩逸/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/轩逸/正后.jpg
+
+###
+
+【日产 - 逍客】
+
+品牌：日产
+车型：逍客
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/逍客/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/逍客/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/逍客/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/逍客/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/逍客/正后.jpg
+
+###
+
+【日产 - 锋坦Frontier Pro PHEV】
+
+品牌：日产
+车型：锋坦Frontier Pro PHEV
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro PHEV/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro PHEV/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro PHEV/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro PHEV/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro PHEV/正后.jpg
+
+###
+
+【日产 - 锋坦Frontier Pro】
+
+品牌：日产
+车型：锋坦Frontier Pro
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/锋坦Frontier Pro/正后.jpg
+
+###
+
+【日产 - 骐达】
+
+品牌：日产
+车型：骐达
+生成时间：2026-04-20T11:06:55+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/骐达/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/骐达/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/骐达/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/骐达/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/骐达/正后.jpg
+
+###

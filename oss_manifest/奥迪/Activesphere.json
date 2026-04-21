@@ -1,0 +1,12 @@
+{
+  "brand": "奥迪",
+  "model": "Activesphere",
+  "source_folder": "D:\\ai_ztqc\\don_tu\\奥迪_外观五角度_去水印\\Activesphere",
+  "generated_at": "2026-04-20T11:04:06+08:00",
+  "images": {
+    "侧面": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/侧面.jpg",
+    "斜前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/斜前.jpg",
+    "斜后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/斜后.jpg",
+    "正后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奥迪/Activesphere/正后.jpg"
+  }
+}

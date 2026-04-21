@@ -1,0 +1,11 @@
+# 千问API调用所需依赖
+
+# 基础HTTP库
+requests>=2.31.0
+
+# 异步HTTP库（如果使用异步版本）
+aiohttp>=3.9.0
+
+# 其他可选依赖
+python-dotenv>=1.0.0  # 用于管理环境变量
+colorama>=0.4.6  # 用于彩色输出

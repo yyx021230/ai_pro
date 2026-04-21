@@ -1,0 +1,13 @@
+{
+  "brand": "奔驰",
+  "model": "奔驰GLA",
+  "source_folder": "D:\\ai_ztqc\\don_tu\\奔驰_外观五角度_去水印\\奔驰GLA",
+  "generated_at": "2026-04-20T11:03:38+08:00",
+  "images": {
+    "侧面": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/侧面.jpg",
+    "斜前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/斜前.jpg",
+    "斜后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/斜后.jpg",
+    "正前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/正前.jpg",
+    "正后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/正后.jpg"
+  }
+}

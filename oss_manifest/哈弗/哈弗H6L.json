@@ -1,0 +1,13 @@
+{
+  "brand": "哈弗",
+  "model": "哈弗H6L",
+  "source_folder": "D:\\ai_ztqc\\don_tu\\哈弗_外观五角度_去水印\\哈弗H6L",
+  "generated_at": "2026-04-20T11:01:42+08:00",
+  "images": {
+    "侧面": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/侧面.jpg",
+    "斜前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/斜前.jpg",
+    "斜后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/斜后.jpg",
+    "正前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/正前.jpg",
+    "正后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/哈弗/哈弗H6L/正后.jpg"
+  }
+}

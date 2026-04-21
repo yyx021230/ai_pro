@@ -1,0 +1,49 @@
+腾势 全部车型（共3款）
+
+【腾势 - 腾势D9】
+
+品牌：腾势
+车型：腾势D9
+生成时间：2026-04-20T11:10:36+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势D9/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势D9/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势D9/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势D9/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势D9/正后.jpg
+
+###
+
+【腾势 - 腾势N7】
+
+品牌：腾势
+车型：腾势N7
+生成时间：2026-04-20T11:10:36+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N7/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N7/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N7/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N7/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N7/正后.jpg
+
+###
+
+【腾势 - 腾势N9】
+
+品牌：腾势
+车型：腾势N9
+生成时间：2026-04-20T11:10:36+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N9/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N9/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N9/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N9/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/腾势/腾势N9/正后.jpg
+
+###

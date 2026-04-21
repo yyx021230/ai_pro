@@ -1,0 +1,13 @@
+{
+  "brand": "日产",
+  "model": "日产N6",
+  "source_folder": "D:\\ai_ztqc\\don_tu\\日产_外观五角度_去水印\\日产N6",
+  "generated_at": "2026-04-20T11:06:55+08:00",
+  "images": {
+    "侧面": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/侧面.jpg",
+    "斜前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/斜前.jpg",
+    "斜后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/斜后.jpg",
+    "正前": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/正前.jpg",
+    "正后": "https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/日产/日产N6/正后.jpg"
+  }
+}

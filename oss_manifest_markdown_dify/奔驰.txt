@@ -1,0 +1,177 @@
+奔驰 全部车型（共11款）
+
+【奔驰 - 奔驰A级 AMG】
+
+品牌：奔驰
+车型：奔驰A级 AMG
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级 AMG/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级 AMG/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级 AMG/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级 AMG/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级 AMG/正后.jpg
+
+###
+
+【奔驰 - 奔驰A级】
+
+品牌：奔驰
+车型：奔驰A级
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰A级/正后.jpg
+
+###
+
+【奔驰 - 奔驰C级】
+
+品牌：奔驰
+车型：奔驰C级
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰C级/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰C级/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰C级/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰C级/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰C级/正后.jpg
+
+###
+
+【奔驰 - 奔驰EQA】
+
+品牌：奔驰
+车型：奔驰EQA
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQA/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQA/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQA/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQA/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQA/正后.jpg
+
+###
+
+【奔驰 - 奔驰EQB】
+
+品牌：奔驰
+车型：奔驰EQB
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQB/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQB/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQB/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQB/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQB/正后.jpg
+
+###
+
+【奔驰 - 奔驰EQE SUV】
+
+品牌：奔驰
+车型：奔驰EQE SUV
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE SUV/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE SUV/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE SUV/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE SUV/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE SUV/正后.jpg
+
+###
+
+【奔驰 - 奔驰EQE】
+
+品牌：奔驰
+车型：奔驰EQE
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰EQE/正后.jpg
+
+###
+
+【奔驰 - 奔驰E级】
+
+品牌：奔驰
+车型：奔驰E级
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰E级/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰E级/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰E级/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰E级/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰E级/正后.jpg
+
+###
+
+【奔驰 - 奔驰GLA】
+
+品牌：奔驰
+车型：奔驰GLA
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLA/正后.jpg
+
+###
+
+【奔驰 - 奔驰GLB】
+
+品牌：奔驰
+车型：奔驰GLB
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLB/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLB/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLB/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLB/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLB/正后.jpg
+
+###
+
+【奔驰 - 奔驰GLC】
+
+品牌：奔驰
+车型：奔驰GLC
+生成时间：2026-04-20T11:03:38+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLC/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLC/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLC/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLC/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/奔驰/奔驰GLC/正后.jpg
+
+###

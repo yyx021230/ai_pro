@@ -1,0 +1,433 @@
+大众 全部车型（共27款）
+
+【大众 - ID.4 CROZZ】
+
+品牌：大众
+车型：ID.4 CROZZ
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 CROZZ/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 CROZZ/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 CROZZ/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 CROZZ/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 CROZZ/正后.jpg
+
+###
+
+【大众 - ID.4 X】
+
+品牌：大众
+车型：ID.4 X
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 X/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 X/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 X/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 X/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.4 X/正后.jpg
+
+###
+
+【大众 - ID.6 CROZZ】
+
+品牌：大众
+车型：ID.6 CROZZ
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 CROZZ/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 CROZZ/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 CROZZ/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 CROZZ/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 CROZZ/正后.jpg
+
+###
+
+【大众 - ID.6 X】
+
+品牌：大众
+车型：ID.6 X
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 X/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 X/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 X/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 X/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.6 X/正后.jpg
+
+###
+
+【大众 - ID.7 VIZZION】
+
+品牌：大众
+车型：ID.7 VIZZION
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.7 VIZZION/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.7 VIZZION/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.7 VIZZION/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.7 VIZZION/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/ID.7 VIZZION/正后.jpg
+
+###
+
+【大众 - Polo】
+
+品牌：大众
+车型：Polo
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/Polo/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/Polo/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/Polo/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/Polo/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/Polo/正后.jpg
+
+###
+
+【大众 - 一汽-大众CC】
+
+品牌：大众
+车型：一汽-大众CC
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/一汽-大众CC/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/一汽-大众CC/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/一汽-大众CC/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/一汽-大众CC/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/一汽-大众CC/正后.jpg
+
+###
+
+【大众 - 凌渡】
+
+品牌：大众
+车型：凌渡
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/凌渡/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/凌渡/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/凌渡/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/凌渡/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/凌渡/正后.jpg
+
+###
+
+【大众 - 大众ID.3】
+
+品牌：大众
+车型：大众ID.3
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/大众ID.3/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/大众ID.3/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/大众ID.3/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/大众ID.3/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/大众ID.3/正后.jpg
+
+###
+
+【大众 - 威然】
+
+品牌：大众
+车型：威然
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/威然/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/威然/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/威然/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/威然/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/威然/正后.jpg
+
+###
+
+【大众 - 宝来】
+
+品牌：大众
+车型：宝来
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/宝来/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/宝来/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/宝来/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/宝来/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/宝来/正后.jpg
+
+###
+
+【大众 - 帕萨特】
+
+品牌：大众
+车型：帕萨特
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/帕萨特/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/帕萨特/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/帕萨特/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/帕萨特/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/帕萨特/正后.jpg
+
+###
+
+【大众 - 探岳】
+
+品牌：大众
+车型：探岳
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳/正后.jpg
+
+###
+
+【大众 - 探岳X】
+
+品牌：大众
+车型：探岳X
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳X/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳X/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳X/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳X/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探岳X/正后.jpg
+
+###
+
+【大众 - 探歌】
+
+品牌：大众
+车型：探歌
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探歌/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探歌/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探歌/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探歌/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/探歌/正后.jpg
+
+###
+
+【大众 - 揽境】
+
+品牌：大众
+车型：揽境
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽境/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽境/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽境/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽境/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽境/正后.jpg
+
+###
+
+【大众 - 揽巡】
+
+品牌：大众
+车型：揽巡
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽巡/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽巡/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽巡/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽巡/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/揽巡/正后.jpg
+
+###
+
+【大众 - 朗逸】
+
+品牌：大众
+车型：朗逸
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/朗逸/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/朗逸/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/朗逸/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/朗逸/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/朗逸/正后.jpg
+
+###
+
+【大众 - 迈腾】
+
+品牌：大众
+车型：迈腾
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/迈腾/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/迈腾/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/迈腾/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/迈腾/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/迈腾/正后.jpg
+
+###
+
+【大众 - 途岳】
+
+品牌：大众
+车型：途岳
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途岳/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途岳/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途岳/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途岳/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途岳/正后.jpg
+
+###
+
+【大众 - 途昂】
+
+品牌：大众
+车型：途昂
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途昂/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途昂/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途昂/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途昂/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途昂/正后.jpg
+
+###
+
+【大众 - 途观L】
+
+品牌：大众
+车型：途观L
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观L/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观L/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观L/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观L/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观L/正后.jpg
+
+###
+
+【大众 - 途观X】
+
+品牌：大众
+车型：途观X
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观X/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观X/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观X/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观X/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途观X/正后.jpg
+
+###
+
+【大众 - 途铠】
+
+品牌：大众
+车型：途铠
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途铠/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途铠/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途铠/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途铠/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/途铠/正后.jpg
+
+###
+
+【大众 - 速腾】
+
+品牌：大众
+车型：速腾
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/速腾/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/速腾/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/速腾/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/速腾/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/速腾/正后.jpg
+
+###
+
+【大众 - 高尔夫】
+
+品牌：大众
+车型：高尔夫
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫/正后.jpg
+
+###
+
+【大众 - 高尔夫GTI】
+
+品牌：大众
+车型：高尔夫GTI
+生成时间：2026-04-20T11:02:26+08:00
+
+【车辆图片】
+
+正前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫GTI/正前.jpg
+斜前方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫GTI/斜前.jpg
+侧面：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫GTI/侧面.jpg
+斜后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫GTI/斜后.jpg
+正后方：https://test260415.oss-cn-hangzhou.aliyuncs.com/car_exterior/大众/高尔夫GTI/正后.jpg
+
+###
